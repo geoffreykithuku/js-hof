@@ -1,0 +1,6 @@
+1. Sort the country based on it population from the smallest to largest,
+2. Print all countries whose name contain either letter p, s, k
+3. Print all countries whose population are perfect squares,
+4. Create an array and push to it all countries which it’s population is an odd number and its name has five, six or seven letters
+5. Sort the countries based on the length of it’s name.
+
